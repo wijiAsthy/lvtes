@@ -1,2 +1,2 @@
 # lvtes
-nativ html css php komantar section
+nativ html css php komentar section
