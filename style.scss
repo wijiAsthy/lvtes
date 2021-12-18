@@ -2,13 +2,13 @@ $blau :#86b0b6;
 * {
   background-color: #eee;
   font-family:'Comic Sans MS';
+
 }
 .comment-box{
   top: 30%;
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-
   textarea{
     width: 100%;
     height: 150%;
@@ -29,6 +29,9 @@ $blau :#86b0b6;
     border-radius: 5px;
     border: 1px solid $blau;
   }
+  input:focus{
+    border: 1px solid #000;
+  }
   button{
     border: 0;
     padding: 10px 30px;
@@ -37,4 +40,5 @@ $blau :#86b0b6;
     border-radius: 5px;
     color: #fff;
   }
+
 }
