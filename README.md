@@ -1,2 +1,2 @@
 # lvtes
-nativ html css php komentar section
+html css nativ php for simple commentform section
